@@ -1,2 +1,2 @@
 ## This is a markdown file
-### with .txt file type
+### with .md file type
